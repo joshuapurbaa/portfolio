@@ -1,11 +1,11 @@
 {
-    "name": "yoshuapurba",
-    "short_name": "yoshuapurba",
+    "name": "Portfolio Joshua",
+    "short_name": "Portfolio Joshua",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Portfolio website by yoshuapurba.",
+    "description": "Web Portfolio build with Flutter.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
