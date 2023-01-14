@@ -21344,7 +21344,7 @@ return A.hf(a,b,A.a([new A.bc(s,"DESKTOP",B.C,c,s,r),new A.bc(s,"TABLET",B.C,d,s
 ard(a){var s=null,r=t.Q
 return A.hf(a,100,A.a([new A.bc(s,"DESKTOP",B.C,80,s,r),new A.bc(s,"TABLET",B.C,70,s,r)],t.R),t.z)},
 akz(a){var s=null,r=t.Q
-return A.hf(a,630,A.a([new A.bc(s,"DESKTOP",B.C,630,s,r),new A.bc(s,"TABLET",B.C,400,s,r)],t.R),t.z)},
+return A.hf(a,630,A.a([new A.bc(s,"DESKTOP",B.C,630,s,r),new A.bc(s,"TABLET",B.C,450,s,r)],t.R),t.z)},
 t6(a){var s=0,r=A.a3(t.H),q
 var $async$t6=A.a4(function(b,c){if(b===1)return A.a0(c,r)
 while(true)switch(s){case 0:q=A.kw(a,0,null)
